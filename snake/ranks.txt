@@ -1,0 +1,16 @@
+Joy: 100
+David: 96
+Bob: 120
+Michael: 100
+Marry: 92
+Jack: 88
+John: 66
+Bruce: 26
+123456: 116
+noName: 101
+noName: 0
+david01: 35
+david02: 69
+david03: 67
+trump: 16
+obama: 40
